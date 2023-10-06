@@ -1,0 +1,1 @@
+<p>Fallback page if my_cookie can't be set automatically</p>
